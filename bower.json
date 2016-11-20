@@ -1,0 +1,17 @@
+{
+  "name": "introducepage",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/sookyeomKim/introducepage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
